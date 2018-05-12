@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2034
     wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27679#Uncle-Sam-s-Boys-as-Sergeantsor-Handling-Their-First-Real-Commands
 gutenberg_issued: '2008-12-31'
 gutenberg_type: Text
 identifiers:
