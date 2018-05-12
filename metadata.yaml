@@ -1,0 +1,28 @@
+_repo: Uncle-Sam-s-Boys-as-Sergeantsor-Handling-Their-First-Real-Commands_27679
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27679-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2008-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States. Army -- Juvenile fiction'
+title: Uncle Sam's Boys as Sergeants; or, Handling Their First Real Commands
+url: http://www.gutenberg.org/ebooks/27679
